@@ -263,7 +263,7 @@ Horizon works great as a **GitHub Actions** cron job. See [`.github/workflows/da
 | Source | What it fetches | Comments |
 |--------|----------------|----------|
 | **Hacker News** | Top stories by score | Yes (top N comments) |
-| **RSS / Atom** | Any RSS or Atom feed | — |
+| **RSS / Atom** | Any standard web feed | — |
 | **Reddit** | Subreddits + user posts | Yes (top N comments) |
 | **Telegram** | Public channel messages | — |
 | **Twitter / X** | Tweets from specific users | Yes (top N replies) |
