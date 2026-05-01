@@ -2,7 +2,7 @@
 
 # 🌅 Horizon
 
-**Enjoy the News itself. Leave others to Horizon**
+**Enjoy the news. Leave the rest to Horizon**
 
 [![License](https://img.shields.io/badge/license-MIT-green.svg?style=flat-square)](LICENSE)
 [![uv](https://img.shields.io/endpoint?url=https://raw.githubusercontent.com/astral-sh/uv/main/assets/badge/v0.json&style=flat-square)](https://github.com/astral-sh/uv)
